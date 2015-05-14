@@ -1,0 +1,31 @@
+** Changelog for Grateful WordPress theme **
+** Author: http://www.themewarrior.com **
+
+April 8th, 2015 -- Version 1.0.4
+- Another fixed for mobile menu not clickable
+- Make post navigation arrow clickable in single post
+- Update Redux Framework to v3.5.0.5
+
+March 6th, 2015 -- Version 1.0.3
+- Add og:description tag to open graph function
+- Replace share buttons to AddThis
+- Fix mobile menu not clickable
+- Fix date issue in Related Posts
+
+February 27th, 2015 -- Version 1.0.2
+- Modify widget title style
+- Remove reading time from carousel slider
+- Remove placehold.it image placeholder when featured image not set
+- Fix post date issue using date_i18n
+- Fix Facebook share button issue
+- Fix logo size in mobile devices
+- Fix menu navigation issue
+- Update Redux Framework to v3.4.3.4
+- Update ZillaShortcodes plugin to v2.0.2
+
+December 22nd, 2014 -- Version 1.0.1
+- Add options to edit site description font
+- Add PSD files to theme package
+
+December 13th, 2014 -- Version 1.0.0
+- Theme is released

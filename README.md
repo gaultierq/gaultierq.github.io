@@ -1,2 +1,0 @@
-# startupeuse
-# gaultierq.github.io

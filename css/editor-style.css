@@ -1,0 +1,13 @@
+/*
+Theme Name: Grateful
+Description: Used to style the TinyMCE editor.
+*/
+
+body#tinymce.wp-editor { 
+    font-family: 'Playfair Display', Georgia, 'Times New Roman'; 
+    margin: 10px; 
+}
+
+body#tinymce.wp-editor a {
+    color: #1565c0;
+}
