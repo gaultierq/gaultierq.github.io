@@ -1,1 +1,0 @@
-Please refer to the documentation file that are included in the .zip files you've download.
